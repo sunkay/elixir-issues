@@ -1,8 +1,12 @@
 # Issues
 
-**TODO: Add description**
+Learning Elixir 1.3
 
-## Installation
+ github issues command line tool
+
+ 
+
+## NO NEED for Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
 
@@ -21,4 +25,3 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
       [applications: [:issues]]
     end
     ```
-

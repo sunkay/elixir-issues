@@ -5,7 +5,7 @@ defmodule Issues.CLI do
   @doc """
     'argv' can be -h or --help which returns :help
   """
-  def run(argv) do
+  def main(argv) do
     argv
     |> parse_args
     |> process
